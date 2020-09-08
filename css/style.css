@@ -1,0 +1,145 @@
+body{
+	font-family: "Helvetica Neue",Helvetica,Arial,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji","Jameel Noori Nastaleeq" !important;
+}
+
+/*Form Formatting*/
+
+form{
+	text-align: center;
+	background-color: darkgrey;
+	display: block;
+	margin: 5% 20%;
+	margin-bottom: 10%;
+}
+
+input .btn .btn-danger{
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 13px;
+  padding-top: 13px;
+  margin: 80px 0;
+  border: none;
+  display: inline;
+}
+
+input .btn .btn-success{
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 13px;
+  padding-top: 13px;
+  margin: 80px 0;
+  border: none;
+  display: inline;
+}
+
+input .btn{
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 13px;
+  padding-top: 13px;
+  margin: 8px 0;
+  border: none;
+  display: inline;
+}
+
+a{
+	text-decoration: none;
+}
+
+.urdu{
+	font-family: 'Jameel Noori Nastaleeq','urdu typesetting','Courier New';
+	text-align: right;
+	font-size: 1.13em;
+}
+
+.labelurdu{
+	font-family: 'Jameel Noori Nastaleeq','urdu typesetting','Courier New';
+	clear: both;
+	text-align: right;
+	margin-right: 5%;
+	font-size: 1.25em;
+	font-style: bold;	
+}
+
+.labelenglish{
+	clear: both;
+	text-align: left;
+	margin-left: 5%;	
+	font-style: bold;
+}
+
+.blank{
+	width: 90%;
+	padding: 0.5rem 1rem;
+	border-radius: 0.3rem;
+}
+
+.f-img{
+	width: 90px;
+}
+
+.f-h2{
+	background: grey;
+}
+
+.list-group-item{
+
+}
+
+div .img .count .text{
+	width: 50px;
+	height: 50px;
+	padding: 10px;
+}
+
+
+.list-group{
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+	float: center;
+}
+  
+
+/*Navbar Formatting*/
+
+.navbar{
+	color: white;
+}
+
+.nav-item{
+	text-transform: uppercase;
+}
+
+/*Footer Section Formatting*/
+
+#footer{
+	position: fixed;
+	color: white;
+	background-color: black;
+	width: 100%;
+	text-align: center;
+	bottom: 0;
+}
+
+/*Carousel Formatting*/
+
+.carousel img {
+
+    width: 100%;
+    /*min-height: 5in;
+    max-height: 5in;*/
+
+}
+
+.carousel img {
+
+     margin: auto;
+
+}
+
+.carousel{
+	padding-bottom: 20px;
+}
+
+/*Search Box*/

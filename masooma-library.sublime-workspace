@@ -1,0 +1,1911 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nav-",
+				"nav-fill"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"navb",
+				"navbar"
+			],
+			[
+				"author",
+				"author_list"
+			],
+			[
+				"issued",
+				"issuedbooks_list"
+			],
+			[
+				"O",
+				"OR"
+			],
+			[
+				"issu",
+				"issuedbooks_list"
+			],
+			[
+				"ues",
+				"user_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"els",
+				"elseif\telseif …"
+			],
+			[
+				"a",
+				"all\tposition"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"img-",
+				"img-circle"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"b",
+				"br\tTag"
+			],
+			[
+				"btn",
+				"btn-sm"
+			],
+			[
+				"bt",
+				"btn-sm"
+			],
+			[
+				"tex",
+				"text-truncate"
+			],
+			[
+				"i",
+				"ifelse\tif … else …"
+			],
+			[
+				"I",
+				"IfIsUser"
+			],
+			[
+				"mo",
+				"modal"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"el",
+				"elseif\telseif …"
+			],
+			[
+				"Re",
+				"Return"
+			],
+			[
+				"Ret",
+				"Returned"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"ob_s",
+				"ob_get_contents"
+			],
+			[
+				"ob_",
+				"ob_get_clean"
+			],
+			[
+				"ob",
+				"ob_gzhandler"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"retu",
+				"returned"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"returne",
+				"returned"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"res",
+				"result1"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"de",
+				"def?\tdefined(…)"
+			],
+			[
+				"req",
+				"Requested"
+			],
+			[
+				"return",
+				"return_status"
+			],
+			[
+				"aut",
+				"author_name_urdu"
+			],
+			[
+				"auth",
+				"author_name_urdu"
+			],
+			[
+				"book",
+				"book_list"
+			],
+			[
+				"au",
+				"author_list"
+			],
+			[
+				"car",
+				"carousel-control"
+			],
+			[
+				"le",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"categ",
+				"category_list"
+			],
+			[
+				"text",
+				"text-capitalize"
+			],
+			[
+				"card",
+				"card-link"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"text-",
+				"text-center"
+			],
+			[
+				"te",
+				"text-nowrap"
+			],
+			[
+				"sm",
+				"small\tTag"
+			],
+			[
+				"boo",
+				"book_name"
+			],
+			[
+				"ar",
+				"area\tTag"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"the",
+				"thead-light"
+			],
+			[
+				"t",
+				"table-hover"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"crea",
+				"creation_date"
+			],
+			[
+				"rule",
+				"rule"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"tbl",
+				"TBLRULESANDREGULATIONS"
+			],
+			[
+				"ru",
+				"rule_list"
+			],
+			[
+				"rul",
+				"rule_urdu"
+			],
+			[
+				"W",
+				"WEBSITE_URL"
+			],
+			[
+				"category_",
+				"category_name"
+			],
+			[
+				"category",
+				"category_name"
+			],
+			[
+				"P",
+				"Picture"
+			],
+			[
+				"pro",
+				"profile_picture"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"admin",
+				"admin_email"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "admin.php",
+			"settings":
+			{
+				"buffer_size": 4463,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin-signup.php",
+			"settings":
+			{
+				"buffer_size": 7229,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "author_add.php",
+			"settings":
+			{
+				"buffer_size": 3843,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "author_list.php",
+			"settings":
+			{
+				"buffer_size": 4833,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "book_list.php",
+			"settings":
+			{
+				"buffer_size": 10624,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "book_add.php",
+			"settings":
+			{
+				"buffer_size": 5917,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "category_add.php",
+			"settings":
+			{
+				"buffer_size": 3934,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "masooma-library.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dashboard.php",
+			"settings":
+			{
+				"buffer_size": 16171,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "issuebook.php",
+			"settings":
+			{
+				"buffer_size": 6697,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "category_list.php",
+			"settings":
+			{
+				"buffer_size": 4821,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "issuedbooks_list.php",
+			"settings":
+			{
+				"buffer_size": 10564,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.php",
+			"settings":
+			{
+				"buffer_size": 3367,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "logout.php",
+			"settings":
+			{
+				"buffer_size": 648,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "my_dashboard.php",
+			"settings":
+			{
+				"buffer_size": 7651,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "my_books"
+			}
+		},
+		{
+			"file": "profile.php",
+			"settings":
+			{
+				"buffer_size": 9173,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php \n\n/****************************\n* File Name: feedback.php \t*\n* Author: Ammar S.A.A \t\t*\n* Output: Feedback Page \t*\n****************************/\n\nrequire('config.php');\nrequire(WEBSITE_PATH.'./includes/db_connection.php');\nrequire(WEBSITE_PATH.'./includes/session.php');\ninclude(WEBSITE_PATH.'./includes/header.php');\ninclude(WEBSITE_PATH.'./includes/logo.php');\ninclude(WEBSITE_PATH.'./includes/menu.php');\n\n\n\n?>",
+			"file": "feedback.php",
+			"file_size": 437,
+			"file_write_time": 132405695444002720,
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Windows",
+				"name": "feedback.php"
+			}
+		},
+		{
+			"contents": "<?WEBSITE_PATHp\n\n/********************************\n* File Name: request_book.php \t*\n* Author: Ammar S.A.A \t\t\t*\n* Output: Form to request book \t*\n********************************/\n\nrequire('config.php');\nrequire(WEBSITE_PATH.'./includes/db_connection.php');\nrequire(WEBSITE_PATH.'./includes/session.php');\ninclude(WEBSITE_PATH.'./includes/header.php');\ninclude(WEBSITE_PATH.'./includes/logo.php');\ninclude(WEBSITE_PATH.'./includes/menu.php');\n\n$sql_select = \"SELECT * FROM tblusers WHERE user_name = '{$_SESSION['user_name']}' \";\n\t    \n\t    $result = $conn->query($sql_select);\n\t    \n\t    if($result) {\n\t    \t$row = $result->fetch_assoc(); \n\t        \t$id = $row['id'];\n\t\t}\n\n// perform request of book\nif (isset($_POST['request-book']))\n{\n\t\n\t$book_name \t\t\t= trim($_POST['book_name']);\n\t$book_name_urdu \t= trim($_POST['book_name_urdu']);\n\t$cat_id \t\t\t= ($_POST['cat_id']);\n\t$author_id \t\t\t= ($_POST['author_id']);\n\t$isbn_no  \t\t\t= ($_POST['isbn_no']);\n\t$price \t\t\t\t= ($_POST['price']);\n\t$status \t\t\t= ($_POST['status']);\n\t$user \t\t\t\t= $id;\n\n\t//Update Query\n\tif (!empty($status)){\n\t\t$sql = \"UPDATE `tblbooks` SET \n\t\t\t\t`book_name`\t\t\t= '{$book_name}',\n\t\t\t\t`book_name_urdu` \t= '{$book_name_urdu}',\n\t\t\t\t`cat_id`\t\t\t= '{$cat_id}',\n\t\t\t\t`author_id`\t\t\t= '{$author_id}',\n\t\t\t\t`isbn_number`\t\t= '{$isbn_no}',\n\t\t\t\t`book_price`\t\t= '{$price}',\n\t\t\t\t`status` \t\t\t= '{$status}',\n\t\t\t\t`user_id` \t\t\t= '{$user}'\n\t\t\t\tWHERE id= {$_POST['id']}\";\n\n\t\t\t\t// prepare and bind\n\t\t\t\t//$stmt = $conn->prepare($sql);\n\t\t\t\t//$stmt->bind_param(\"ssiisdii\",$book_name,$book_name_urdu,$cat_id,$author_id,$isbn_no,$price,$status,$_POST['id']);\n\n\t\t\t\t//$result = $stmt->execute();\n\t$result = $conn->query($sql);\n\t}else{\n\t\t$msg = \"<div class='alert alert-danger'>Status Can't be Empty!</div>\";\n\t}\n\n\tif ($result)\n\t{ \n\t\t$msg = \"<div class='alert alert-success'>Requested Successfully😀.</div>\";\t\n\t}else{\n\t\t$msg = \"<div class='alert alert-danger'>Errors Occured!</div>\";\t\n\t}\n}\n\n$book_name \t\t\t= '';\n$book_name_urdu \t= '';\n$cat_id \t\t\t= '';\n$author_id \t\t\t= '';\n$isbn_no  \t\t\t= '';\n$price \t\t\t\t= '';\n$status\t\t\t\t= '';\n\nif (isset($_GET['id'])){\n\n$select = \"SELECT * FROM `tblbooks` WHERE id={$_GET['id']}\";\n$result = $conn->query($select);\n\n\tif ($result && $result->num_rows > 0){\n\t\n\t\t$row = $result->fetch_assoc();\n\t\t\n\t\t$id \t\t\t\t= $row['id'];\n\t\t$book_name \t\t\t= $row['book_name'];\n\t\t$book_name_urdu \t= $row['book_name_urdu'];\n\t\t$cat_id \t\t\t= $row['cat_id'];\n\t\t$author_id \t\t\t= $row['author_id'];\n\t\t$isbn_no \t\t\t= $row['isbn_number'];\n\t\t$price \t\t\t\t= $row['book_price'];\n\t\t$reg_date \t\t\t= $row['reg_date'];\n    \t$updation_date \t\t= $row['updation_date'];\n\t\t$status \t\t\t= $row['status'];\n\t\n\t};\t\t\n\n}\n\nif (isset($msg))\n{\necho $msg;\n}\n?>     \t\t\n\t\t\t<section id=\"content\">\n\t\t\t\t<div class=\"page-wrapper\">\n\t\t\t\t\t<div class=\"container-fluid\">\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col\">\n\t\t\t\t\t\t\t\t<h2>Request <b><?php echo $book_name; echo '<p class=urdu>'.$book_name_urdu.'</p>'; ?></b><hr/></h2>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col\">\n\t\t\t\t\t\t\t\t<!--Book Requesting Form-->\n\t\t\t\t\t\t\t\t<form name=\"request-book\" method=\"post\" action=\"\">\n\t\t\t\t\t\t\t\t\t<br />\n\t\t\t\t\t\t\t\t\t<input type=\"hidden\" name=\"request-book\" value=\"request-book\" />\n\t\t\t\t\t\t\t\t\t<input type=\"hidden\" name=\"id\" value=\"<?php echo $id;?>\" />\n\t\t\t\t\t\t\t\t\t<img src=\"images/category.png\" class=\"f-img\" />\n\t\t\t\t\t\t\t\t\t<h5>Request Info</h5>\n\t\t\t\t\t\t\t\t\t<p class=\"labelenglish\"><b>Book Name:</b></p>\n\t\t\t\t\t\t\t\t\t<input type=\"text\" name=\"book_name\" class=\"blank\" value=\"<?php echo $book_name; ?>\" readonly />\n\t\t\t\t\t\t\t\t\t<p class=\"labelurdu\"><b>:کتاب کا نام</b></p>\n\t\t\t\t\t\t\t\t\t<input type=\"text\" name=\"book_name_urdu\" value=\"<?php echo $book_name_urdu; ?>\" class=\"blank urdu\" readonly />  \n\t\t\t\t\t\t\t\t\t<p class=\"labelenglish\"><b>Category:</b></p>\n\t\t\t\t\t\t\t\t\t<select id=\"category\" name=\"cat_id\" class=\"blank form-control-lg\" readonly >\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<?php \n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t$categories = GetCategories($conn);\n\t\t\t\t\t\t\t\t\tforeach ($categories as $row) {\n\t\t\t\t\t\t\t\t\t$is_selected =\"\";\n\t\t\t\t\t\t\t\t\t\tif($row['id'] == $cat_id)\n\t\t\t\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\t\t\t\t$is_selected =\"selected\";\n\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\techo \"<option class='blank' {$is_selected} value='{$row['id']}' readonly >{$row['category_name']}</option>\";\n\t\t\t\t\t\t\t\t\t\t} \n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t?>\n\t\t\t\t\t\t\t\t    \n\t\t\t\t\t\t\t\t    </select>\n\t\t\t\t\t\t\t\t\t<p class=\"labelenglish\"><b>Author:</b></p>\n\t\t\t\t\t\t\t\t\t<select id=\"author\" name=\"author_id\" class=\"blank\" readonly >\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<?php \n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t$authors = GetAuthors($conn);\n\t\t\t\t\t\t\t\t\tforeach ($authors as $row) {\n\t\t\t\t\t\t\t\t\t\t$is_selected =\"\";\n\t\t\t\t\t\t\t\t\t\tif($row['id'] == $author_id)\n\t\t\t\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\t\t\t\t$is_selected =\"selected\";\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\techo \"<option {$is_selected} value='{$row['id']}' readonly >{$row['author_name']}</option>\";\n\t\t\t\t\t\t\t\t\t\t} \n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t?>\n\t\t\t\t\t\t\t\t    \n\t\t\t\t\t\t\t\t    </select>\n\t\t\t\t\t\t\t\t\t<p class=\"labelenglish\"><b>ISBN No.:</b></p>\n\t\t\t\t\t\t\t\t\t<input type=\"text\" name=\"isbn_no\" class=\"blank\" value=\"<?php echo $isbn_no; ?>\" readonly />\n\t\t\t\t\t\t\t\t\t<p class=\"labelenglish\"><b>Price:</b></p>\n\t\t\t\t\t\t\t\t\t<input type=\"number\" name=\"price\" class=\"blank\" value=\"<?php echo $price; ?>\" readonly />  \n\t\t\t\t\t\t\t\t\t<p class=\"labelenglish\"><b>Status:</b></p><br />\n  \t\t\t\t\t\t\t\t\t<div class=\"form-check form-check-inline\" name=\"status\">\n  \t\t\t\t\t\t\t\t\t\t<input class=\"form-check-input\" type=\"radio\" name=\"status\" value=\"3\" required />\n  \t\t\t\t\t\t\t\t\t\t<label class=\"form-check-label\" for=\"status\"> \n    \t\t\t\t\t\t\t\t\t\tRequest\n\t\t\t\t\t\t\t\t\t  \t</label>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t\t<input type=\"reset\" name=\"reset\" value=\"Reset\"  class=\"btn btn-success\" />\n\t\t\t\t\t\t\t\t\t\t<input type='submit' name='request' value='Request'  class='btn btn-success' />\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<br />\n\t\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t</div>\n\t</div>\n<?php\n\tinclude(WEBSITE_PATH.'./includes/footer.php');\n?>",
+			"file": "request_book.php",
+			"file_size": 5992,
+			"file_write_time": 132412940223685740,
+			"settings":
+			{
+				"buffer_size": 5801,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "rule_add.php",
+			"settings":
+			{
+				"buffer_size": 4281,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "rule_list.php",
+			"settings":
+			{
+				"buffer_size": 6289,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "user-signup.php",
+			"settings":
+			{
+				"buffer_size": 7234,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "users.php",
+			"settings":
+			{
+				"buffer_size": 5164,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/db_connection.php",
+			"settings":
+			{
+				"buffer_size": 387,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/footer.php",
+			"settings":
+			{
+				"buffer_size": 312,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/functions.php",
+			"settings":
+			{
+				"buffer_size": 5987,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/header.php",
+			"settings":
+			{
+				"buffer_size": 2939,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 2055,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/*For Logout Modal*/\n/*Till row 47*/\n.modal-open .modal {\n  overflow-x: hidden;\n  overflow-y: hidden;\n}\n\n.modal-backdrop.in {\n    filter: alpha(opacity=00);\n    opacity: .0;\n}\n.modal-backdrop.in {\n    filter: alpha(opacity=00);\n    opacity: .0;\n}\n.modal-backdrop {\n    position: relative;\n    top: 0;\n    right: 0;\n    left: 0;\n    background-color: #000;\n}\n.modal-backdrop {\n    position: relative;\n    top: 0;\n    right: 0;\n    left: 0;\n    background-color: #000;\n}\n.modal-backdrop {\n    position: relative;\n    top: 0;\n    left: 0;\n    z-index: 1040;\n    width: 100vw;\n    height: 100vh;\n    background-color: #000;\n}\n.modal-backdrop {\n    position: relative;\n    top: 0;\n    left: 0;\n    z-index: 1040;\n    width: 100vw;\n    height: 100vh;\n    background-color: #000;\n}\n\n.nav-tabs .nav-link {\n\tborder: 1px solid transparent;\n\tbackground-color: #;\n\tborder-color: lightgrey;\n\tborder-top-left-radius: 0.00rem;\n\tborder-top-right-radius: 0.00rem;\n}",
+			"file": "css/new_style.css",
+			"file_size": 1005,
+			"file_write_time": 132412974226797160,
+			"settings":
+			{
+				"buffer_size": 948,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "newcss.css"
+			}
+		},
+		{
+			"file": "includes/logo.php",
+			"settings":
+			{
+				"buffer_size": 1594,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap/old/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 141414,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/bootstrap/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 198313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/menu.php",
+			"settings":
+			{
+				"buffer_size": 5909,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/session.php",
+			"settings":
+			{
+				"buffer_size": 188,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/slider.php",
+			"settings":
+			{
+				"buffer_size": 4184,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 822,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 987.0,
+		"history":
+		[
+			"load C:\\Users\\webmaster\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Distraction Free.sublime-settings",
+			"C:\\Users\\webmaster\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Distraction Free.sublime-settings",
+			"File C:\\Users\\webmaster\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Distraction Free.sublime-settings",
+			"file C:\\Users\\webmaster\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Distraction Free.sublime-settings",
+			"File \"C:\\Users\\webmaster\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Distraction Free.sublime-settings\"",
+			"load C:\\Users\\webmaster\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Distraction Free.sublime-settings",
+			"C:\\Users\\webmaster\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Distraction Free.sublime-settings"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/lms",
+		"/C/xampp/htdocs/lms/css",
+		"/C/xampp/htdocs/lms/css/bootstrap",
+		"/C/xampp/htdocs/lms/includes"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/lms/includes/functions.php",
+		"/C/xampp/htdocs/lms/database/lms.sql",
+		"/C/Users/webmaster/Downloads/lms (1).sql",
+		"/C/xampp/htdocs/masooma-library/includes/logo.php",
+		"/C/Folders/S.A.A/lms/includes/logo.php",
+		"/C/xampp/htdocs/lms/css/bootstrap/bootstrap.css",
+		"/C/xampp/htdocs/lms/css/bootstrap/old/bootstrap.css",
+		"/C/Folders/S.A.A/lms/logout.php",
+		"/C/xampp/htdocs/masooma-library/logout.php",
+		"/C/xampp/htdocs/lms/css/style.css",
+		"/C/xampp/htdocs/lms/css/bootstrap/bootstrap-theme.css",
+		"/C/xampp/htdocs/lms/css/bootstrap/font-awesome.min.css",
+		"/C/xampp/htdocs/lms/css/bootstrap/docs.min.css",
+		"/C/Users/webmaster/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/lms/rule_list.php",
+		"/C/Users/webmaster/Downloads/tblbooks.sql",
+		"/C/Users/webmaster/Downloads/lms.sql",
+		"/C/Users/webmaster/Downloads/lms(1).sql",
+		"/C/Users/webmaster/Downloads/lms(2).sql",
+		"/C/xampp/htdocs/lms/admin.php",
+		"/C/xampp/htdocs/lms/admin_add.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav",
+			"show",
+			"nav",
+			"fixed",
+			"absolute",
+			".text",
+			".img",
+			".img ",
+			"btn-group",
+			"btn",
+			"btn-group",
+			"btn",
+			"btn-group",
+			"btn-block",
+			"modal",
+			"issued",
+			"returned",
+			"requested",
+			"circle",
+			"glyphicon-menu",
+			"list_issuedbooks",
+			"right",
+			"-right",
+			"card",
+			"glyphicon",
+			" text-truncate",
+			"text-decoration: none;",
+			"href",
+			"a href",
+			"link",
+			"text-",
+			"text",
+			"close",
+			"glyphicon-w",
+			"glyphicon-question",
+			"glyphicon-question-sign",
+			"gly",
+			"text",
+			"tfoot",
+			"*/",
+			"tfoot",
+			"row",
+			"col",
+			"rules_list",
+			"read",
+			"readonly",
+			"rules_list",
+			"rulesregulations",
+			"source"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"relative",
+			"",
+			"action",
+			"issuedbooks_list",
+			"",
+			"row",
+			"rule_list",
+			"rules_list",
+			"action"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1503,
+								1503
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 289.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "admin-signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5912,
+								6221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "author_add.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2929,
+								2929
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "author_list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2952,
+								2952
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1406.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "book_list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2456,
+								2456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "book_add.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1413,
+								1465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 425.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "category_add.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1568,
+								1568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 152.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "masooma-library.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "dashboard.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12882,
+								12882
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 725.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "issuebook.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2824,
+								2824
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1312.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "category_list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2162,
+								2162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "issuedbooks_list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1708,
+								1708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 307.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1148,
+								1140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 76.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "logout.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "my_dashboard.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								7651
+							]
+						],
+						"settings":
+						{
+							"auto_name": "my_books",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 725.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "profile.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								1080
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 98.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "feedback.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"auto_name": "feedback.php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "request_book.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "rule_add.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3354,
+								3354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1770.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "rule_list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1221,
+								1221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 666.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "user-signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3953,
+								3953
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 383.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "users.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4274,
+								4274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1406.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 22,
+					"file": "includes/db_connection.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "includes/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "includes/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2427,
+								2427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1634.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "includes/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2165,
+								2165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 91.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1305,
+								1305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "css/new_style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"auto_name": "newcss.css",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 62.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "includes/logo.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								741,
+								741
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 96.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "css/bootstrap/old/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19037,
+								19041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 838.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "css/bootstrap/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 198313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86995,
+								86998
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 81569.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "includes/menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 19.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "includes/session.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "includes/slider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2742,
+								2742
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 496.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								704,
+								726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.0295159386068,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "masooma-library.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
