@@ -1,0 +1,13 @@
+{
+    "name": "ammarsaa/lms",
+    "type": "php custom development",
+    "description": "Library Mnagement System.",
+    "license": "OSL - Open software license 3.0",
+    "homepage":"https://github.com/ammarsaa/lms",
+  "authors":[
+    {
+        "name": "Syed Ammar Ahmed",
+        "email": "s.ammarahmed14@gmail.com"
+    }
+  ]
+}
